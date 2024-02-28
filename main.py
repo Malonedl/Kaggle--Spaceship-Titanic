@@ -52,4 +52,12 @@ group_travel_percent = groups_df['%AllTogether'].sum() / (groups_df['%AllTogethe
 print("Percent of groups that started together and ended together:", group_travel_percent)
 # 88% of people in the same group are starting together and ending together.
 
+"""
+Converting bools into ints
+"""
+
+"""
+Separating Cabin into Deck/num/side and remove cabin
+"""
+
 
